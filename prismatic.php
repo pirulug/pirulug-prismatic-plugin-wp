@@ -1,21 +1,22 @@
 <?php
 /*
-		Plugin Name: Prismatic Custom
-		Plugin URI: https://tusitio.com/prismatic-custom
-		Description: Versión personalizada de Prismatic sin actualizaciones automáticas.
-		Tags: code, snippets, syntax, highlight, language
-		Author: Tu Nombre
-		Contributors: -
-		Author URI: https://tusitio.com/
-		Donate link: https://tusitio.com/donate
-		Requires at least: 4.7
-		Tested up to: 6.8
-		Stable tag: 3.5
-		Version: 3.5-custom
-		Requires PHP: 5.6.20
-		Text Domain: prismatic
-		Domain Path: /languages
-		License: GPL v2 or later
+Plugin Name: Prismatic by Pirulug
+Description: Versión personalizada del plugin Prismatic para resaltado de sintaxis de código. Esta edición está pensada para uso controlado y no incluye actualizaciones automáticas, manteniendo la base del plugin original.
+Tags: code, syntax highlight, snippets, programming
+Version: 0.0.1
+
+Author: Pirulug
+Author URI: https://pirulug.github.io
+Contributors: Pirulug
+
+Original Plugin: Prismatic
+Original Plugin URI: https://wordpress.org/plugins/prismatic/
+Original Repository: https://github.com/pirulug/prismatic
+
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: prismatic
+Domain Path: /languages
 */
 
 
